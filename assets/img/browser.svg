@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1309px" height="107px" viewBox="0 0 1309 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>browser</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1309" height="112"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accounting-course-landing-page-hifi" transform="translate(-65.000000, -2117.000000)">
+            <g id="browser" transform="translate(65.000000, 2112.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" xlink:href="#path-1"></use>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(0.000000, 5.000000)">
+                        <rect id="Browser-background" stroke-opacity="0.973534507" stroke="#A1A7BE" stroke-width="3.2" fill="#FFFFFF" x="0" y="0" width="1309" height="176" rx="4.8"></rect>
+                        <path d="M1262.81381,23.6561196 C1261.6908,21.2487232 1262.92636,19.2971429 1265.59024,19.2971429 L1287.19132,19.2971429 C1289.8477,19.2971429 1292.76632,21.3095316 1293.71029,23.7920839 L1298.67163,36.84 L1268.96383,36.84 L1262.81381,23.6561196 Z" id="New-Tab" stroke="#A1A7BE" stroke-width="1.6" fill-opacity="0.05" fill="#A1A7BE" opacity="0.595207556"></path>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(83.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857" rx="17"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">IRS | Tax</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(143.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857" rx="3"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Account</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(203.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">How to F</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(263.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857" rx="4"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">1099 Tax</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(323.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Should I File</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(383.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Taxes are</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(443.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">A Pain in the</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(503.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Association</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(563.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Payroll Ba</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(623.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857" rx="44"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Taxes for Entre</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(693.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Payro</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(763.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Bookk</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(833.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Taxes for Entre</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(903.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">LLC T</tspan>
+                            </text>
+                        </g>
+                        <g id="Tab1" stroke="none" stroke-width="1" fill="none" transform="translate(973.553191, 14.034286)">
+                            <path d="M9.36903667,4.46305706 C10.3473477,1.99817871 13.2898394,0 15.9402919,0 L192.014318,0 C194.665211,0 197.606445,1.99612083 198.585573,4.46305706 L207.95461,28.0685714 L0,28.0685714 L9.36903667,4.46305706 Z" id="Background-Tab1" stroke="#A1A7BE" stroke-width="1.6" fill="#EDEDEF"></path>
+                            <rect id="Favicon-Tab1" fill="#C8CDD9" x="20.4241135" y="7.01714286" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Title-Tab1" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="40.848227" y="19.4821429">Taxes for Entre</tspan>
+                            </text>
+                        </g>
+                        <path d="M1055.92039,40.3485714 L1.85673759,40.3485714 L1.85673759,78.9428571 L1307.14326,78.9428571 L1307.14326,40.3485714 L1262.48245,40.3485714 L1253.80969,18.4973428 C1252.83056,16.0304065 1249.88932,14.0342857 1247.23843,14.0342857 L1071.16441,14.0342857 C1068.51395,14.0342857 1065.57146,16.0324644 1064.59315,18.4973428 L1055.92039,40.3485714 Z" id="Tab-2-+-Searchbar" stroke="#A1A7BE" stroke-width="1.6" fill="#F3F4F6"></path>
+                        <rect id="Search-Bar" stroke="#A1A7BE" stroke-width="1.6" fill-opacity="0.728006114" fill="#FFFFFF" x="103.977305" y="49.12" width="1160.46099" height="21.0514286"></rect>
+                        <g id="Tab-2" stroke="none" stroke-width="1" fill="none" transform="translate(1076.791489, 18.955000)">
+                            <rect id="Favicon-Tab2" fill="#A1A7BE" x="0" y="2.09642857" width="14.8539007" height="14.0342857"></rect>
+                            <text id="Accounting" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="14.0312231" font-weight="normal" fill="#A1A7BE">
+                                <tspan x="22.2808511" y="14.6578571">Accounting</tspan>
+                            </text>
+                            <path d="M168.963121,8.061 L168.220426,7.35928571 L165.249645,10.1661429 L162.278865,7.35928571 L161.53617,8.061 L164.50695,10.8678571 L161.53617,13.6747143 L162.278865,14.3764286 L165.249645,11.5695714 L168.220426,14.3764286 L168.963121,13.6747143 L165.99234,10.8678571 L168.963121,8.061 Z" id="Close-Tab2" fill="#7E89A3"></path>
+                        </g>
+                        <path d="M1275.57872,66.6628571 L1294.1461,66.6628571 L1294.1461,64.3238095 L1275.57872,64.3238095 L1275.57872,66.6628571 L1275.57872,66.6628571 Z M1275.57872,60.8152381 L1294.1461,60.8152381 L1294.1461,58.4761905 L1275.57872,58.4761905 L1275.57872,60.8152381 L1275.57872,60.8152381 Z M1275.57872,52.6285714 L1275.57872,54.967619 L1294.1461,54.967619 L1294.1461,52.6285714 L1275.57872,52.6285714 L1275.57872,52.6285714 Z" id="Menu" stroke="none" fill="#7E89A3"></path>
+                        <path d="M86.8953191,54.7337143 C85.5956028,53.418 83.7388652,52.6285714 81.6964539,52.6285714 C77.6116312,52.6285714 74.2695035,55.7862857 74.2695035,59.6457143 C74.2695035,63.5051429 77.6116312,66.6628571 81.6964539,66.6628571 C85.1314184,66.6628571 88.0093617,64.3822857 88.8448936,61.4 L86.8953191,61.4 C86.1526241,63.4174286 84.1102128,64.9085714 81.6964539,64.9085714 C78.6328369,64.9085714 76.1262411,62.5402857 76.1262411,59.6457143 C76.1262411,56.7511429 78.6328369,54.3828571 81.6964539,54.3828571 C83.2746809,54.3828571 84.5743972,54.9968571 85.5956028,55.9617143 L82.6248227,58.7685714 L89.1234043,58.7685714 L89.1234043,52.6285714 L86.8953191,54.7337143 L86.8953191,54.7337143 Z" id="Refresh" stroke="none" fill="#7E89A3"></path>
+                        <path d="M50.1319149,52.6285714 L48.8321986,53.8565714 L54.0310638,58.7685714 L42.7049645,58.7685714 L42.7049645,60.5228571 L54.0310638,60.5228571 L48.8321986,65.4348571 L50.1319149,66.6628571 L57.5588652,59.6457143 L50.1319149,52.6285714 Z" id="Next" stroke="none" fill="#7E89A3"></path>
+                        <path d="M29.7078014,58.7685714 L18.3817021,58.7685714 L23.5805674,53.8565714 L22.2808511,52.6285714 L14.8539007,59.6457143 L22.2808511,66.6628571 L23.5805674,65.4348571 L18.3817021,60.5228571 L29.7078014,60.5228571 L29.7078014,58.7685714 L29.7078014,58.7685714 Z" id="Previous" stroke="none" fill="#7E89A3"></path>
+                        <g id="Window-button-OSX" stroke="none" stroke-width="1" fill="none" transform="translate(14.853901, 15.788571)">
+                            <ellipse id="Extend" stroke="#A1A7BE" stroke-width="1.6" cx="51.0602837" cy="6.14" rx="6.49858156" ry="6.14"></ellipse>
+                            <ellipse id="Close" stroke="#A1A7BE" stroke-width="1.6" cx="6.49858156" cy="6.14" rx="6.49858156" ry="6.14"></ellipse>
+                            <ellipse id="Minimize" stroke="#A1A7BE" stroke-width="1.6" cx="28.7794326" cy="6.14" rx="6.49858156" ry="6.14"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

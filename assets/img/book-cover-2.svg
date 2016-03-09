@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="617px" height="457px" viewBox="0 0 617 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>book-cover-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="93.3712489%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#09E0BF" offset="0%"></stop>
+            <stop stop-color="#6EEA92" offset="47.4601242%"></stop>
+            <stop stop-color="#E3F760" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="28.2842712 28.2842712" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="24.8994715" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="11.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path id="path-5" d="M0,106.43565 L2.77907697e-16,8.00352434 C1.24423514e-16,3.5832999 3.57832559,0 7.99898922,0 L405,0 L405,309 L0,309 L0,106.43565 Z"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="14.1421356 14.1421356" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="12.4497358" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="396" height="306"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accounting-course-landing-page-hifi" transform="translate(-131.000000, 0.000000)">
+            <g id="book-cover-2" transform="translate(154.000000, 37.000000)">
+                <g id="flair" transform="translate(52.000000, 0.000000)" fill="url(#linearGradient-1)">
+                    <path d="M272.809062,288.743793 C334.136104,288.743793 473,53.5330994 473,7.71295004 C473,-26.3987586 358.302416,62.9362361 293.833338,94.7500021 C271.70509,105.669701 320.935373,27.3581001 293.833338,30.1009428 C255.362574,33.9943497 133.160013,30.8914406 114.666667,49.3839302 C87.1925633,76.8567608 114.666667,197.048599 114.666667,224.434663 C114.666667,270.254812 211.482019,288.743793 272.809062,288.743793 Z" id="Oval-6" filter="url(#filter-2)"></path>
+                    <ellipse id="Oval-6" filter="url(#filter-3)" cx="193.5" cy="191.318571" rx="193.5" ry="144.681429"></ellipse>
+                </g>
+                <g id="book-cover-hero" filter="url(#filter-4)" transform="translate(0.000000, 81.000000)">
+                    <g id="Group-19-Copy">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Mask" fill="#272A2C" xlink:href="#path-5"></use>
+                    </g>
+                    <path d="M4,110.091198 L4,9.00076654 C4,6.23891944 6.23266366,4 9.00153546,4 L401,4 L401,301.992709 C401,307.519583 396.524451,312 391.00037,312 L5.99482003,312 C4.89311135,312 4,311.111793 4,309.999161 L4,110.091198 Z" id="Rectangle-9-Copy" fill="#FFFFFF"></path>
+                    <g id="Group-2" transform="translate(0.000000, 8.000000)">
+                        <rect id="Rectangle-20" fill="#2C3138" x="0" y="0" width="396" height="306"></rect>
+                        <rect id="Rectangle-41" fill="#000000" x="0" y="0" width="62.7622188" height="60.5"></rect>
+                        <g id="Group-3" transform="translate(171.000000, 52.500000)" fill="url(#linearGradient-1)">
+                            <path d="M128.615562,122.228523 C152.148032,122.228523 181.5,30.0389806 181.5,6.52424122 C181.5,-16.9904982 141.001935,30.2021503 100.30377,35.7107599 C85.5417325,37.7088427 82.9923949,8.5234001 75.8961109,18.0136807 C65.3537224,32.1126407 44,103.69063 44,117.745062 C44,141.259801 105.083092,122.228523 128.615562,122.228523 Z" id="Oval-6" filter="url(#filter-7)"></path>
+                            <circle id="Oval-6" filter="url(#filter-8)" cx="74.25" cy="100.75" r="74.25"></circle>
+                        </g>
+                        <g id="Group-10">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <use id="Mask" xlink:href="#path-9"></use>
+                            <g mask="url(#mask-10)" stroke="#131518" id="Rectangle-93-Copy" stroke-width="6">
+                                <g transform="translate(122.000000, -153.000000)">
+                                    <rect transform="translate(202.000000, 201.750000) rotate(-315.000000) translate(-202.000000, -201.750000) " x="92.5" y="26.25" width="219" height="351" rx="419.175006"></rect>
+                                    <rect transform="translate(202.000000, 201.750000) rotate(-225.000000) translate(-202.000000, -201.750000) " x="92.5" y="26.25" width="219" height="351" rx="419.175006"></rect>
+                                    <rect transform="translate(202.000000, 201.750000) rotate(-270.000000) translate(-202.000000, -201.750000) " x="92.5" y="26.25" width="219" height="351" rx="419.175006"></rect>
+                                    <rect transform="translate(202.000000, 201.750000) rotate(-180.000000) translate(-202.000000, -201.750000) " x="92.5" y="26.25" width="219" height="351" rx="419.175006"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="VOL.-1.0" transform="translate(77.500000, 38.500000) rotate(-270.000000) translate(-77.500000, -38.500000) " font-family="BebasNeue, Bebas Neue" font-size="9" font-weight="normal" fill="#8AFDC2">
+                            <tspan x="66" y="41">VOL. 1.0</tspan>
+                        </text>
+                        <text id="By-Trevor-McKendrick-Copy-3" font-family="AvenirNext-Regular, Avenir Next" font-size="7" font-weight="normal" fill="#5BDBC4">
+                            <tspan x="25.5" y="282">By Trevor McKendrick</tspan>
+                        </text>
+                        <text id="Type-something" font-family="AvenirNext-Regular, Avenir Next" font-size="10" font-weight="normal" fill="#00EDFF">
+                            <tspan x="26" y="244.5">for Entrepreneurs </tspan>
+                            <tspan x="26" y="258.5">&amp; Freelancers</tspan>
+                        </text>
+                        <text id="The-Accounting-and-T" font-family="BebasNeue, Bebas Neue" font-size="18" font-weight="normal" fill="#8AFDC2">
+                            <tspan x="26" y="199.5">The Accounting </tspan>
+                            <tspan x="26" y="220.5">and Tax Guide</tspan>
+                        </text>
+                        <rect id="Rectangle-25" fill="#000000" x="26" y="230.5" width="125" height="1"></rect>
+                        <g id="Group" transform="translate(35.000000, 38.000000) scale(-1, -1) rotate(-270.000000) translate(-35.000000, -38.000000) translate(23.000000, 30.000000)" fill="#8AFDC2">
+                            <circle id="Oval-8" cx="8" cy="14" r="2"></circle>
+                            <circle id="Oval-8-Copy-3" cx="12" cy="8" r="2"></circle>
+                            <circle id="Oval-8-Copy-6" cx="16" cy="2" r="2"></circle>
+                            <circle id="Oval-8-Copy" cx="14" cy="14" r="2"></circle>
+                            <circle id="Oval-8-Copy-4" cx="18" cy="8" r="2"></circle>
+                            <circle id="Oval-8-Copy-7" cx="22" cy="2" r="2"></circle>
+                            <circle id="Oval-8-Copy-2" cx="2" cy="14" r="2"></circle>
+                            <circle id="Oval-8-Copy-5" cx="6" cy="8" r="2"></circle>
+                            <circle id="Oval-8-Copy-8" cx="10" cy="2" r="2"></circle>
+                        </g>
+                        <rect id="Rectangle-97-Copy-3" fill="#000000" x="0" y="65.9629938" width="62.7622188" height="11.4423984"></rect>
+                        <rect id="Rectangle-97-Copy-5" fill="#000000" x="0" y="82.6737477" width="62.7622188" height="7.41602778"></rect>
+                        <rect id="Rectangle-97-Copy-5" fill="#000000" x="0" y="78.2522258" width="62.7622188" height="2.56870169"></rect>
+                        <rect id="Rectangle-97-Copy-6" fill="#000000" x="0" y="92.0897755" width="62.7622188" height="4.18287618"></rect>
+                        <rect id="Rectangle-97-Copy-6" fill="#000000" x="0" y="102.188849" width="62.7622188" height="2.56870169"></rect>
+                        <rect id="Rectangle-97-Copy-6" fill="#000000" x="0" y="98.9463994" width="62.7622188" height="2.56870169"></rect>
+                        <rect id="Rectangle-97-Copy-4" fill="#000000" x="0" y="62" width="62.7622188" height="3.03573836"></rect>
+                    </g>
+                    <rect id="Rectangle-136-Copy" fill="#3A3F44" opacity="0.366429571" x="10" y="8" width="4" height="306"></rect>
+                    <rect id="Rectangle-136-Copy-2" fill="#1F2227" opacity="0.366429571" x="6" y="8" width="6" height="306"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
